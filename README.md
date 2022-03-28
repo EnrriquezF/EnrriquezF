@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EnrriquezF
+- 👋 Hi, I’m Florencia.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning how to be front-end dev.
 - 💞️ I’m looking to collaborate on web projects.
