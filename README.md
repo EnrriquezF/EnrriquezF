@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Florencia.
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning how to be front-end dev.
-- 💞️ I’m looking to collaborate on web projects.
+- 👀 I’m a front-end developer.
+- 💻 I am specialized in the React.js framework!
+- 🎇 I like web design as well.
+- 💞️ You can find some of my projects in the next repositories.
 
 <!---
 EnrriquezF/EnrriquezF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
